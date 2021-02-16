@@ -1,0 +1,13 @@
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.exe
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.deps.json
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.json
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.dev.json
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csprojAssemblyReference.cache
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfoInputs.cache
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfo.cs
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.CoreCompileInputs.cache
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\alber\source\repos\GroupsApp\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.genruntimeconfig.cache
